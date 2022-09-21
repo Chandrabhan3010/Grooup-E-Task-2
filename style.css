@@ -1,0 +1,15 @@
+.paytm-logo{
+    width: 200px ;
+    height: 100%;
+    margin-left: 20px;
+}
+.navbar{
+    width: 100%;
+    
+    align-items: center;
+    justify-content: space-between;
+
+}
+.sing-in-logo{
+    margin-left: 550px;
+}
