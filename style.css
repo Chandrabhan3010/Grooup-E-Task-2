@@ -110,3 +110,26 @@ font-size: 18px;
     width: 528px;
 }
 /* second section completed */
+
+.section-2{
+    width: 100%;
+    background-color:  #00B9F1;
+    color: white;
+}
+.inner-section{
+    width: 70%;
+    margin: auto;
+}
+.head-2{
+    font-size: 36px;
+    padding-top: 70px;
+}
+.child-s2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.s2-icons{
+    width: 64px;
+    height: 64px;
+}
