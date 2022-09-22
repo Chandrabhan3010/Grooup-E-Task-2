@@ -115,11 +115,9 @@ font-size: 18px;
     width: 100%;
     background-color:  #00B9F1;
     color: white;
-    margin: auto;
 }
 .inner-section{
     width: 70%;
-    margin: auto;
     margin: auto;
 }
 .head-2{
@@ -128,10 +126,12 @@ font-size: 18px;
 }
 .child-s2{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-top: 50px;
+    padding-bottom: 50px;
 }
 .s2-icons{
     width: 64px;
     height: 64px;
 }
+/*  recharge section completed */
