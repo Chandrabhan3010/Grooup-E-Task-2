@@ -1,4 +1,4 @@
-# group-E-Task-2
+# group-E-Task-2 = PAYTM CLONE
 ## this is paytm clone website made with the help of html , css from core
 ## only html and css is used in this .
 ![live preview]()
