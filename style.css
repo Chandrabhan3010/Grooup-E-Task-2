@@ -115,8 +115,9 @@ font-size: 18px;
     width: 100%;
     background-color:  #00B9F1;
     color: white;
+    padding: 20px;
 }
-.inner-section{
+.inner-section-2{
     width: 70%;
     margin: auto;
 }
@@ -134,4 +135,149 @@ font-size: 18px;
     width: 64px;
     height: 64px;
 }
+.inner-child-s2{
+    line-height: 10px;
+    font-weight: bold;
+    color: white;
+}
 /*  recharge section completed */
+
+ /* section 3 started
+
+ .section-3{
+    width: 100%;
+    background-color:  #002E6E;
+    color: white;
+  } */
+
+.bg{
+    background-color:#002E6E;
+}
+.inner-section-3{
+    width: 70%;
+    margin: auto;
+}
+.head-3{
+    font-size: 36px;
+    padding-top: 70px;
+}
+.child-s3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+.s3-icons{
+    width: 64px;
+    height: 64px;
+}
+.inner-child-s3{
+    line-height: 10px;
+    font-weight: bold;
+    color: white;
+}
+
+/*  section-3 completed    */
+
+/* main section started */
+
+.main{
+    background-color:#e8f8fd;
+    width: 100%;
+    border: 1px solid red;
+}
+.main-head{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+/* main division 1 */
+
+.main-1{
+    border: 1px solid red;
+    display: flex;
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    }
+.main-1-div1{
+width: 45%;
+}
+
+.main-1-img1{
+
+}
+.main-1-div2{
+width: 45%;
+}
+
+.main-1-div2-img1{
+}
+
+/* main division 2 */
+
+.main-2{
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    }
+.main-2-div1{
+width: 50%;
+}
+
+.main-2-img1{
+
+}
+.main-2-div2{
+width: 50%;
+}
+
+.main-2-div2-img1{
+}
+/* main division 3 */
+.main-3{
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    }
+.main-3-div1{
+width: 50%;
+}
+
+.main-3-img1{
+width: 45%;
+}
+.main-3-div2{
+width: 45%;
+}
+
+.main-3-div2-img1{
+}
+/* main division 4 */
+.main-4{
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    }
+.main-4-div1{
+width: 50%;
+}
+
+.main-4-img1{
+
+}
+.main-4-div2{
+width: 50%;
+}
+
+.main-4-div2-img1{
+} 
